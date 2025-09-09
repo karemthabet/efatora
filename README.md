@@ -21,32 +21,49 @@ It enables businesses to manage clients, products, branches, and bank accounts, 
 
 ## 📸 Screenshots
 
-### 🔹 Splash & Authentication
-| Splash | Login | Login (Alt) |
-|:------:|:-----:|:-----------:|
-| ![](assets/splash.jpg) | ![](assets/login.jpg) | ![](assets/login2.jpg) |
+<div align="center">
 
----
+### 🔹 Splash & Authentication
+<table>
+  <tr>
+    <td><img src="assets/splash.png" width="220"/></td>
+    <td><img src="assets/login.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td><b>Splash Screen</b></td>
+    <td><b>Login</b></td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🔹 Invoices Management
-| All Invoices | Simple Invoice | Tax Invoice |
-|:------------:|:--------------:|:------------:|
-| ![](assets/All%20invoices.jpg) | ![](assets/simple%20invoices.jpg) | ![](assets/Tax%20invoices.jpg) |
+<table>
+  <tr>
+    <td><img src="assets/invoices.png" width="220"/></td>
+    <td><img src="assets/Create invoice.png" width="220"/></td>
+    <td><img src="assets/invoices details.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td><b>All Invoices</b></td>
+    <td><b>Create Invoice</b></td>
+    <td><b>Invoice Details</b></td>
+  </tr>
+</table>
 
-| Create Invoice | Create Invoice (Alt) | Invoice Details |
-|:--------------:|:---------------------:|:---------------:|
-| ![](assets/Create%20invoice.jpg) | ![](assets/Create%20invoices2.jpg) | ![](assets/invoice%20Deatails.jpg) |
+<br/>
 
-| Filter Invoices | Add Item | Add Client |
-|:---------------:|:--------:|:----------:|
-| ![](assets/filter%20invoices.jpg) | ![](assets/Add%20Item.jpg) | ![](assets/Add%20Client.jpg) |
+### 🔹 Adding & Management
+<table>
+  <tr>
+    <td><img src="assets/add.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td><b>Add Item / Client</b></td>
+  </tr>
+</table>
 
----
-
-### 🔹 Settings
-| Settings |
-|:--------:|
-| ![](assets/Settings.jpg) |
+</div>
 
 ---
 
@@ -59,6 +76,3 @@ It enables businesses to manage clients, products, branches, and bank accounts, 
 
 ## 📂 Status
 🚧 Project is currently in development and pending release on Google Play.  
-
----
-
