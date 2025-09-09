@@ -26,8 +26,7 @@ It enables businesses to manage clients, products, branches, and bank accounts, 
 ### 🔹 Splash & Authentication
 <table>
   <tr>
-    <td><img src="assets/splash.png" width="220"/></td>
-    <td><img src="assets/login.png" width="220"/></td>
+    <td><img src="assets/splash,login.png" width="220"/></td>
   </tr>
   <tr>
     <td><b>Splash Screen</b></td>
