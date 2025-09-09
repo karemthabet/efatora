@@ -26,7 +26,7 @@ It enables businesses to manage clients, products, branches, and bank accounts, 
 ### 🔹 Splash & Authentication
 <table>
   <tr>
-    <td><img src="assets/splash,login.png" width="220"/></td>
+    <td><img src="assets/splash,login.png" width="400"/></td>
   </tr>
   <tr>
     <td><b>Splash Screen</b></td>
@@ -39,9 +39,9 @@ It enables businesses to manage clients, products, branches, and bank accounts, 
 ### 🔹 Invoices Management
 <table>
   <tr>
-    <td><img src="assets/invoices.png" width="220"/></td>
-    <td><img src="assets/Create invoice.png" width="220"/></td>
-    <td><img src="assets/invoices details.png" width="220"/></td>
+    <td><img src="assets/invoices.png" width="400"/></td>
+    <td><img src="assets/Create invoice.png" width="400"/></td>
+    <td><img src="assets/invoices details.png" width="400"/></td>
   </tr>
   <tr>
     <td><b>All Invoices</b></td>
@@ -55,7 +55,7 @@ It enables businesses to manage clients, products, branches, and bank accounts, 
 ### 🔹 Adding & Management
 <table>
   <tr>
-    <td><img src="assets/add.png" width="220"/></td>
+    <td><img src="assets/add.png" width="400"/></td>
   </tr>
   <tr>
     <td><b>Add Item / Client</b></td>
